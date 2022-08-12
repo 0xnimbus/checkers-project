@@ -10,3 +10,17 @@
 h1 {
     padding: 0 500px; 
 }
+
+.red-piece {
+    background-image: url(https://www.mathsisfun.com/games/images/chkr-red.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.black-piece {
+    background-image: url(https://www.mathsisfun.com/games/images/chkr-blu.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
